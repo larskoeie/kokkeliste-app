@@ -1,0 +1,766 @@
+{
+  "dates": {
+    "2020-08-01": {
+      "date": "Sat 2020-08-01",
+      "points": 0,
+      "pointstotal": "2"
+    },
+    "2020-08-02": {
+      "date": "Sun 2020-08-02",
+      "points": 0,
+      "pointstotal": "2"
+    },
+    "2020-08-03": {
+      "date": "Mon 2020-08-03",
+      "points": 0,
+      "pointstotal": "2"
+    },
+    "2020-08-04": {
+      "date": "Tue 2020-08-04",
+      "points": 0,
+      "pointstotal": "2"
+    },
+    "2020-08-05": {
+      "date": "Wed 2020-08-05",
+      "points": 0,
+      "pointstotal": "2"
+    }
+  },
+  "cells": {
+    "2020-08-01": {
+      "6": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "11": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "419": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "423": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "424": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      },
+      "425": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      },
+      "426": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "427": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      },
+      "428": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "429": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "430": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "433": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "434": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "435": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      },
+      "436": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "437": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "438": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "439": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "440": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "441": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "442": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "443": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "444": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "445": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "446": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      },
+      "476": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "614": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "615": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "620": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      }
+    },
+    "2020-08-02": {
+      "6": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "11": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "419": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "423": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "424": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      },
+      "425": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      },
+      "426": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "427": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      },
+      "428": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "429": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "430": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "433": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "434": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "435": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      },
+      "436": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "437": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "438": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "439": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "440": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "441": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "442": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "443": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "444": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "445": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "446": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      },
+      "476": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "614": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "615": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "620": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      }
+    },
+    "2020-08-03": {
+      "6": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "11": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "419": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "423": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "424": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      },
+      "425": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      },
+      "426": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "427": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      },
+      "428": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "429": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "430": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "433": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "434": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "435": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      },
+      "436": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "437": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "438": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "439": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "440": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "441": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "442": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "443": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "444": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "445": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "446": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      },
+      "476": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "614": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "615": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "620": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      }
+    },
+    "2020-08-04": {
+      "6": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "11": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "419": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "423": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "424": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      },
+      "425": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      },
+      "426": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "427": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      },
+      "428": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "429": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "430": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "433": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "434": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "435": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      },
+      "436": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "437": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "438": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "439": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "440": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "441": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "442": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "443": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "444": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "445": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "446": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      },
+      "476": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "614": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "615": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "620": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      }
+    },
+    "2020-08-05": {
+      "6": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "11": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "419": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "423": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "424": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      },
+      "425": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      },
+      "426": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "427": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      },
+      "428": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "429": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "430": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "433": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "434": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "435": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      },
+      "436": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "437": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "438": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "439": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "440": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "441": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "442": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "443": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "444": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "445": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "446": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      },
+      "476": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "614": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "615": {
+        "status": 1,
+        "statusReal": -1,
+        "assigned": 0
+      },
+      "620": {
+        "status": "0",
+        "statusReal": "0",
+        "assigned": 0
+      }
+    }
+  }
+}

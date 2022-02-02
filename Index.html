@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+
+<table id="assigned-table"></table>
+
+<script src="lib/jquery.min.js"></script>
+
+<script src="components/Assigner.js"></script>
+<script src="components/Cell.js"></script>
+<script src="components/Day.js"></script>
+<script src="components/Table.js"></script>
+<script src="components/Round.js"></script>
+<script src="components/Factory.js"></script>
+<script src="components/User.js"></script>
+<script src="components/UserGroup.js"></script>
+<script>
+
+
+    var d = {};
+
+    var round = new Round();
+
+    var table = new Table($('#assigned-table'), round);
+
+    factory = new Factory();
+
+
+
+    round.setUsers(factory.usersFromArray([{
+        id: 1,
+        name: "Name 1"
+    }, {
+        id: 2,
+        name: "Name 2"
+    }]));
+
+    round.setDays(factory.daysFromArray([{
+        date: "2020-08-01",
+        points: 2
+    },{
+        date: "2020-08-02",
+        points: 2
+    },{
+        date: "2020-08-03",
+        points: 2
+    }]));
+
+    table.render();
+
+
+    jQuery('#btn-fill-possible').click(function () {
+        assigner.fillPossibleHoles();
+    });
+
+
+</script>
+</body>
+</html>
